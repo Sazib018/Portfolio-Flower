@@ -95,6 +95,23 @@ header{
     background-color:rgba(255, 192, 203, 0.575) ;
     text-align: center;
     width: 830px;
-    
+}
+.space{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.center-4{
+ text-align: center;
+ padding: 60px;   
+}
+.w-img{
+    font-size: smaller;
+    color: rgba(0, 0, 0, 0.552);
+    width: 450px;
+    margin-left: 270px;
+}
+.position{
+padding: 60px 60px;
 }
 
