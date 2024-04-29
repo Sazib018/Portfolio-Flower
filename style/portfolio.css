@@ -30,6 +30,12 @@ header{
     padding: 8px 15px;
     margin-left: 130px;
 }
+.btn-1:hover{
+    color:white;
+    background-color:rgba(187, 13, 30, 0.977) ;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
 .modefi{
     margin: auto;
     padding: 120px;
@@ -113,5 +119,26 @@ header{
 }
 .position{
 padding: 60px 60px;
+}
+.radias{
+    border: 2px solid;
+    width: 300px;
+    padding: 20px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-color: rgba(255, 192, 203, 0.587);
+    border: none;
+}
+.contant-space{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 40px;
+}
+.w-30{
+    text-align: center;
+    font-size: smaller;
+    color: rgba(0, 0, 0, 0.552) ;
+    width: 400px;
+    margin-left: 400px;
 }
 
